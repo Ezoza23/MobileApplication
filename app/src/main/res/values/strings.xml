@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">WeatherPatterns</string>
-    <string name="title_activity_mvp">MvpActivity</string>
-    <string name="title_activity_mvvm">MvvmActivity</string>
-    <string name="title_activity_mvi">MviActivity</string>
-</resources>
